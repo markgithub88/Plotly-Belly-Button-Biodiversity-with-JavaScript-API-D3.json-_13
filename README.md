@@ -1,1 +1,1 @@
-![charts](charts.png)
+![charts](./charts.png)
